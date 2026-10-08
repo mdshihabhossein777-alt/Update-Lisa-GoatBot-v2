@@ -35,19 +35,19 @@
     "ignoreCommand": []
   },
   "adminBot": [
-    "61567840496026"
+    "61577562306224"
   ],
   "nisanBot": [
-    "8672850822768289"
+    "61577562306224"
   ],
   "whiteListMode": {
     "enable": false,
     "whiteListIds": [
-      "61567840496026"
+      "61577562306224"
     ],
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
-  "nickNameBot": "𝙻𝚒𝚜𝚊-𝙶𝚘𝚊𝚝𝚋𝚘𝚝-ᴠ2",
+  "nickNameBot": "SAYO x",
   "prefix": "-",
   "ArYanapi": "https://aryan-rest-api.onrender.com",
   "api": "",
